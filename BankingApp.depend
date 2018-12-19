@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1545261523 source:c:\users\grzegorz\desktop\codeblocks\bankingapp\bankingapp\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<cstring>
+	<Windows.h>
+	"Account.h"
+	"DBmanager.h"
+
+1545261505 c:\users\grzegorz\desktop\codeblocks\bankingapp\bankingapp\dbmanager.h
+	"Account.h"
+
+1545261545 source:c:\users\grzegorz\desktop\codeblocks\bankingapp\bankingapp\dbmanager.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<cstring>
+	<Windows.h>
+	"Account.h"
+	"DBmanager.h"
+
+1545258837 c:\users\grzegorz\desktop\codeblocks\bankingapp\bankingapp\account.h
+
